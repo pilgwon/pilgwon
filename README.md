@@ -1,7 +1,7 @@
 ### Hi, there! 👋
 
 Hello! I'm pilgwon.
-I love making _INSANELY GREAT_ services.
+I love making **INSANELY GREAT** services.
 
 
 
