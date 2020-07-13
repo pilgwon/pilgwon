@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, there! 👋
+
+Hello! I'm pilgwon.
+I love making _INSANELY GREAT_ services.
+
+
 
 <!--
 **pilgwon/pilgwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
